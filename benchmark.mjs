@@ -5,7 +5,9 @@ async function calculateAverageResponseTime() {
     let totalResponseTime = 0
     for (let i = 0; i < NUMBER_OF_REQUESTS; i++) {
         const now = performance.now()
-        await fetch(`${BASE_URL}/my-products/989`, {
+        const randomNumber = Math.floor(Math.random() * 20_000)
+        console.log(`Fetching product number: ${randomNumber}`)
+        await fetch(`${BASE_URL}/my-products/${randomNumber}`, {
             // Do not follow the redirect
             redirect: "manual"
         })
