@@ -1,5 +1,59 @@
 [[redirects]]
-  from = "/my-products/*"
-  to = "/products/:splat"
+  from = "/my-products/1"
+  to = "/products/1"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/6"
+  to = "/products/6"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/5"
+  to = "/products/5"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/7"
+  to = "/products/7"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/8"
+  to = "/products/8"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/9"
+  to = "/products/9"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/3"
+  to = "/products/3"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/2"
+  to = "/products/2"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/10"
+  to = "/products/10"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/4"
+  to = "/products/4"
   status = 307
   force = false
