@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/my-products/*"
+  to = "/products/:splat"
+  status = 307
+  force = false
