@@ -1,7 +1,7 @@
 import fs from "node:fs"
 
 const FILE_PATH = './netlify.toml'
-const NUMBER_OF_PRODUCTS = 20_000
+const NUMBER_OF_PRODUCTS = 100_000
 
 function generateRedirectForProductNumber(number) { return (`
 [[redirects]]
