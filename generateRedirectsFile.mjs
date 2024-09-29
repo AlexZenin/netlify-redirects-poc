@@ -1,6 +1,7 @@
 import fs from "node:fs"
 
 const FILE_PATH = './netlify.toml'
+const NUMBER_OF_PRODUCTS = 1_000
 
 function generateRedirectForProductNumber(number) { return (`
 [[redirects]]
@@ -11,7 +12,7 @@ function generateRedirectForProductNumber(number) { return (`
 `)}
 
 
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= NUMBER_OF_PRODUCTS; i++) {
     const content = generateRedirectForProductNumber(i)
 
     fs.appendFile(FILE_PATH, content, (err) => {

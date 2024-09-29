@@ -5,7 +5,7 @@ async function calculateAverageResponseTime() {
     let totalResponseTime = 0
     for (let i = 0; i < NUMBER_OF_REQUESTS; i++) {
         const now = performance.now()
-        await fetch(`${BASE_URL}/my-products/5`, {
+        await fetch(`${BASE_URL}/my-products/989`, {
             // Do not follow the redirect
             redirect: "manual"
         })

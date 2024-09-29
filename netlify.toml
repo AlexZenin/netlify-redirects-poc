@@ -5,14 +5,14 @@
   force = false
 
 [[redirects]]
-  from = "/my-products/6"
-  to = "/products/6"
+  from = "/my-products/5"
+  to = "/products/5"
   status = 307
   force = false
 
 [[redirects]]
-  from = "/my-products/5"
-  to = "/products/5"
+  from = "/my-products/6"
+  to = "/products/6"
   status = 307
   force = false
 
@@ -35,6 +35,18 @@
   force = false
 
 [[redirects]]
+  from = "/my-products/10"
+  to = "/products/10"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/4"
+  to = "/products/4"
+  status = 307
+  force = false
+
+[[redirects]]
   from = "/my-products/3"
   to = "/products/3"
   status = 307
@@ -47,13 +59,5941 @@
   force = false
 
 [[redirects]]
-  from = "/my-products/10"
-  to = "/products/10"
+  from = "/my-products/11"
+  to = "/products/11"
   status = 307
   force = false
 
 [[redirects]]
-  from = "/my-products/4"
-  to = "/products/4"
+  from = "/my-products/13"
+  to = "/products/13"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/12"
+  to = "/products/12"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/15"
+  to = "/products/15"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/19"
+  to = "/products/19"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/16"
+  to = "/products/16"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/17"
+  to = "/products/17"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/14"
+  to = "/products/14"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/18"
+  to = "/products/18"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/20"
+  to = "/products/20"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/22"
+  to = "/products/22"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/23"
+  to = "/products/23"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/25"
+  to = "/products/25"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/26"
+  to = "/products/26"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/21"
+  to = "/products/21"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/29"
+  to = "/products/29"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/30"
+  to = "/products/30"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/24"
+  to = "/products/24"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/32"
+  to = "/products/32"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/33"
+  to = "/products/33"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/34"
+  to = "/products/34"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/35"
+  to = "/products/35"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/36"
+  to = "/products/36"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/31"
+  to = "/products/31"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/38"
+  to = "/products/38"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/39"
+  to = "/products/39"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/40"
+  to = "/products/40"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/37"
+  to = "/products/37"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/42"
+  to = "/products/42"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/43"
+  to = "/products/43"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/44"
+  to = "/products/44"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/28"
+  to = "/products/28"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/41"
+  to = "/products/41"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/47"
+  to = "/products/47"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/48"
+  to = "/products/48"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/46"
+  to = "/products/46"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/50"
+  to = "/products/50"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/51"
+  to = "/products/51"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/52"
+  to = "/products/52"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/27"
+  to = "/products/27"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/54"
+  to = "/products/54"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/55"
+  to = "/products/55"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/56"
+  to = "/products/56"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/53"
+  to = "/products/53"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/58"
+  to = "/products/58"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/59"
+  to = "/products/59"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/60"
+  to = "/products/60"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/61"
+  to = "/products/61"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/62"
+  to = "/products/62"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/57"
+  to = "/products/57"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/64"
+  to = "/products/64"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/65"
+  to = "/products/65"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/66"
+  to = "/products/66"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/67"
+  to = "/products/67"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/68"
+  to = "/products/68"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/63"
+  to = "/products/63"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/70"
+  to = "/products/70"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/71"
+  to = "/products/71"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/72"
+  to = "/products/72"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/49"
+  to = "/products/49"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/74"
+  to = "/products/74"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/75"
+  to = "/products/75"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/77"
+  to = "/products/77"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/78"
+  to = "/products/78"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/45"
+  to = "/products/45"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/73"
+  to = "/products/73"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/80"
+  to = "/products/80"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/81"
+  to = "/products/81"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/82"
+  to = "/products/82"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/76"
+  to = "/products/76"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/84"
+  to = "/products/84"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/85"
+  to = "/products/85"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/86"
+  to = "/products/86"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/87"
+  to = "/products/87"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/79"
+  to = "/products/79"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/89"
+  to = "/products/89"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/91"
+  to = "/products/91"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/90"
+  to = "/products/90"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/92"
+  to = "/products/92"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/94"
+  to = "/products/94"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/95"
+  to = "/products/95"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/96"
+  to = "/products/96"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/93"
+  to = "/products/93"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/97"
+  to = "/products/97"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/83"
+  to = "/products/83"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/99"
+  to = "/products/99"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/101"
+  to = "/products/101"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/100"
+  to = "/products/100"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/69"
+  to = "/products/69"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/103"
+  to = "/products/103"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/104"
+  to = "/products/104"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/105"
+  to = "/products/105"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/106"
+  to = "/products/106"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/107"
+  to = "/products/107"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/102"
+  to = "/products/102"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/109"
+  to = "/products/109"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/110"
+  to = "/products/110"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/111"
+  to = "/products/111"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/88"
+  to = "/products/88"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/113"
+  to = "/products/113"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/114"
+  to = "/products/114"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/115"
+  to = "/products/115"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/116"
+  to = "/products/116"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/117"
+  to = "/products/117"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/112"
+  to = "/products/112"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/119"
+  to = "/products/119"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/120"
+  to = "/products/120"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/121"
+  to = "/products/121"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/98"
+  to = "/products/98"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/123"
+  to = "/products/123"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/125"
+  to = "/products/125"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/124"
+  to = "/products/124"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/127"
+  to = "/products/127"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/126"
+  to = "/products/126"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/108"
+  to = "/products/108"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/129"
+  to = "/products/129"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/130"
+  to = "/products/130"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/118"
+  to = "/products/118"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/132"
+  to = "/products/132"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/133"
+  to = "/products/133"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/134"
+  to = "/products/134"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/135"
+  to = "/products/135"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/137"
+  to = "/products/137"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/136"
+  to = "/products/136"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/138"
+  to = "/products/138"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/139"
+  to = "/products/139"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/141"
+  to = "/products/141"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/122"
+  to = "/products/122"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/143"
+  to = "/products/143"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/144"
+  to = "/products/144"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/145"
+  to = "/products/145"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/146"
+  to = "/products/146"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/147"
+  to = "/products/147"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/140"
+  to = "/products/140"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/149"
+  to = "/products/149"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/151"
+  to = "/products/151"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/152"
+  to = "/products/152"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/153"
+  to = "/products/153"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/150"
+  to = "/products/150"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/154"
+  to = "/products/154"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/128"
+  to = "/products/128"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/156"
+  to = "/products/156"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/157"
+  to = "/products/157"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/158"
+  to = "/products/158"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/159"
+  to = "/products/159"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/148"
+  to = "/products/148"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/161"
+  to = "/products/161"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/162"
+  to = "/products/162"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/163"
+  to = "/products/163"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/155"
+  to = "/products/155"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/165"
+  to = "/products/165"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/166"
+  to = "/products/166"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/167"
+  to = "/products/167"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/164"
+  to = "/products/164"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/169"
+  to = "/products/169"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/170"
+  to = "/products/170"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/171"
+  to = "/products/171"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/131"
+  to = "/products/131"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/168"
+  to = "/products/168"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/174"
+  to = "/products/174"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/175"
+  to = "/products/175"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/176"
+  to = "/products/176"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/177"
+  to = "/products/177"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/178"
+  to = "/products/178"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/179"
+  to = "/products/179"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/180"
+  to = "/products/180"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/181"
+  to = "/products/181"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/160"
+  to = "/products/160"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/183"
+  to = "/products/183"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/184"
+  to = "/products/184"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/185"
+  to = "/products/185"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/186"
+  to = "/products/186"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/187"
+  to = "/products/187"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/188"
+  to = "/products/188"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/182"
+  to = "/products/182"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/172"
+  to = "/products/172"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/191"
+  to = "/products/191"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/192"
+  to = "/products/192"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/190"
+  to = "/products/190"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/194"
+  to = "/products/194"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/195"
+  to = "/products/195"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/173"
+  to = "/products/173"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/197"
+  to = "/products/197"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/198"
+  to = "/products/198"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/196"
+  to = "/products/196"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/200"
+  to = "/products/200"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/201"
+  to = "/products/201"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/202"
+  to = "/products/202"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/203"
+  to = "/products/203"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/193"
+  to = "/products/193"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/205"
+  to = "/products/205"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/206"
+  to = "/products/206"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/207"
+  to = "/products/207"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/208"
+  to = "/products/208"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/209"
+  to = "/products/209"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/189"
+  to = "/products/189"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/211"
+  to = "/products/211"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/212"
+  to = "/products/212"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/213"
+  to = "/products/213"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/199"
+  to = "/products/199"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/215"
+  to = "/products/215"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/216"
+  to = "/products/216"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/217"
+  to = "/products/217"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/204"
+  to = "/products/204"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/219"
+  to = "/products/219"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/214"
+  to = "/products/214"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/221"
+  to = "/products/221"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/222"
+  to = "/products/222"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/223"
+  to = "/products/223"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/224"
+  to = "/products/224"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/225"
+  to = "/products/225"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/220"
+  to = "/products/220"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/227"
+  to = "/products/227"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/228"
+  to = "/products/228"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/229"
+  to = "/products/229"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/218"
+  to = "/products/218"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/231"
+  to = "/products/231"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/232"
+  to = "/products/232"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/233"
+  to = "/products/233"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/234"
+  to = "/products/234"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/235"
+  to = "/products/235"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/236"
+  to = "/products/236"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/210"
+  to = "/products/210"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/238"
+  to = "/products/238"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/239"
+  to = "/products/239"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/240"
+  to = "/products/240"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/237"
+  to = "/products/237"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/230"
+  to = "/products/230"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/243"
+  to = "/products/243"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/244"
+  to = "/products/244"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/245"
+  to = "/products/245"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/246"
+  to = "/products/246"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/226"
+  to = "/products/226"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/248"
+  to = "/products/248"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/249"
+  to = "/products/249"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/250"
+  to = "/products/250"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/242"
+  to = "/products/242"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/252"
+  to = "/products/252"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/253"
+  to = "/products/253"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/254"
+  to = "/products/254"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/241"
+  to = "/products/241"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/256"
+  to = "/products/256"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/257"
+  to = "/products/257"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/258"
+  to = "/products/258"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/259"
+  to = "/products/259"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/260"
+  to = "/products/260"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/261"
+  to = "/products/261"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/247"
+  to = "/products/247"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/263"
+  to = "/products/263"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/264"
+  to = "/products/264"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/255"
+  to = "/products/255"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/266"
+  to = "/products/266"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/265"
+  to = "/products/265"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/268"
+  to = "/products/268"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/270"
+  to = "/products/270"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/271"
+  to = "/products/271"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/262"
+  to = "/products/262"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/273"
+  to = "/products/273"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/274"
+  to = "/products/274"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/275"
+  to = "/products/275"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/267"
+  to = "/products/267"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/277"
+  to = "/products/277"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/278"
+  to = "/products/278"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/276"
+  to = "/products/276"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/280"
+  to = "/products/280"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/281"
+  to = "/products/281"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/282"
+  to = "/products/282"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/269"
+  to = "/products/269"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/284"
+  to = "/products/284"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/285"
+  to = "/products/285"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/286"
+  to = "/products/286"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/287"
+  to = "/products/287"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/288"
+  to = "/products/288"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/289"
+  to = "/products/289"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/142"
+  to = "/products/142"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/290"
+  to = "/products/290"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/292"
+  to = "/products/292"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/291"
+  to = "/products/291"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/294"
+  to = "/products/294"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/295"
+  to = "/products/295"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/296"
+  to = "/products/296"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/297"
+  to = "/products/297"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/293"
+  to = "/products/293"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/298"
+  to = "/products/298"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/300"
+  to = "/products/300"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/301"
+  to = "/products/301"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/299"
+  to = "/products/299"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/302"
+  to = "/products/302"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/304"
+  to = "/products/304"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/303"
+  to = "/products/303"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/272"
+  to = "/products/272"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/306"
+  to = "/products/306"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/307"
+  to = "/products/307"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/309"
+  to = "/products/309"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/308"
+  to = "/products/308"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/305"
+  to = "/products/305"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/312"
+  to = "/products/312"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/311"
+  to = "/products/311"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/313"
+  to = "/products/313"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/314"
+  to = "/products/314"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/310"
+  to = "/products/310"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/317"
+  to = "/products/317"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/316"
+  to = "/products/316"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/318"
+  to = "/products/318"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/279"
+  to = "/products/279"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/315"
+  to = "/products/315"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/322"
+  to = "/products/322"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/321"
+  to = "/products/321"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/325"
+  to = "/products/325"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/320"
+  to = "/products/320"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/251"
+  to = "/products/251"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/326"
+  to = "/products/326"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/327"
+  to = "/products/327"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/328"
+  to = "/products/328"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/330"
+  to = "/products/330"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/324"
+  to = "/products/324"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/323"
+  to = "/products/323"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/332"
+  to = "/products/332"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/333"
+  to = "/products/333"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/283"
+  to = "/products/283"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/335"
+  to = "/products/335"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/329"
+  to = "/products/329"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/336"
+  to = "/products/336"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/331"
+  to = "/products/331"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/339"
+  to = "/products/339"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/341"
+  to = "/products/341"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/338"
+  to = "/products/338"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/319"
+  to = "/products/319"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/342"
+  to = "/products/342"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/343"
+  to = "/products/343"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/344"
+  to = "/products/344"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/345"
+  to = "/products/345"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/337"
+  to = "/products/337"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/349"
+  to = "/products/349"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/348"
+  to = "/products/348"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/346"
+  to = "/products/346"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/351"
+  to = "/products/351"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/334"
+  to = "/products/334"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/353"
+  to = "/products/353"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/352"
+  to = "/products/352"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/355"
+  to = "/products/355"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/347"
+  to = "/products/347"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/354"
+  to = "/products/354"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/357"
+  to = "/products/357"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/358"
+  to = "/products/358"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/340"
+  to = "/products/340"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/363"
+  to = "/products/363"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/361"
+  to = "/products/361"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/360"
+  to = "/products/360"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/350"
+  to = "/products/350"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/365"
+  to = "/products/365"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/366"
+  to = "/products/366"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/362"
+  to = "/products/362"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/356"
+  to = "/products/356"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/368"
+  to = "/products/368"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/371"
+  to = "/products/371"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/372"
+  to = "/products/372"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/374"
+  to = "/products/374"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/373"
+  to = "/products/373"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/375"
+  to = "/products/375"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/359"
+  to = "/products/359"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/377"
+  to = "/products/377"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/379"
+  to = "/products/379"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/378"
+  to = "/products/378"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/364"
+  to = "/products/364"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/382"
+  to = "/products/382"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/381"
+  to = "/products/381"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/383"
+  to = "/products/383"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/367"
+  to = "/products/367"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/385"
+  to = "/products/385"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/384"
+  to = "/products/384"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/386"
+  to = "/products/386"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/387"
+  to = "/products/387"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/389"
+  to = "/products/389"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/390"
+  to = "/products/390"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/370"
+  to = "/products/370"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/391"
+  to = "/products/391"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/392"
+  to = "/products/392"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/394"
+  to = "/products/394"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/395"
+  to = "/products/395"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/393"
+  to = "/products/393"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/376"
+  to = "/products/376"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/397"
+  to = "/products/397"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/399"
+  to = "/products/399"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/400"
+  to = "/products/400"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/380"
+  to = "/products/380"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/369"
+  to = "/products/369"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/401"
+  to = "/products/401"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/402"
+  to = "/products/402"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/388"
+  to = "/products/388"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/406"
+  to = "/products/406"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/407"
+  to = "/products/407"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/404"
+  to = "/products/404"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/403"
+  to = "/products/403"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/398"
+  to = "/products/398"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/411"
+  to = "/products/411"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/409"
+  to = "/products/409"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/412"
+  to = "/products/412"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/408"
+  to = "/products/408"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/415"
+  to = "/products/415"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/414"
+  to = "/products/414"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/416"
+  to = "/products/416"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/396"
+  to = "/products/396"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/417"
+  to = "/products/417"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/419"
+  to = "/products/419"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/420"
+  to = "/products/420"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/410"
+  to = "/products/410"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/423"
+  to = "/products/423"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/405"
+  to = "/products/405"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/422"
+  to = "/products/422"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/413"
+  to = "/products/413"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/425"
+  to = "/products/425"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/427"
+  to = "/products/427"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/428"
+  to = "/products/428"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/418"
+  to = "/products/418"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/430"
+  to = "/products/430"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/424"
+  to = "/products/424"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/431"
+  to = "/products/431"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/432"
+  to = "/products/432"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/435"
+  to = "/products/435"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/434"
+  to = "/products/434"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/433"
+  to = "/products/433"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/426"
+  to = "/products/426"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/440"
+  to = "/products/440"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/439"
+  to = "/products/439"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/438"
+  to = "/products/438"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/429"
+  to = "/products/429"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/442"
+  to = "/products/442"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/436"
+  to = "/products/436"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/444"
+  to = "/products/444"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/443"
+  to = "/products/443"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/421"
+  to = "/products/421"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/447"
+  to = "/products/447"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/449"
+  to = "/products/449"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/445"
+  to = "/products/445"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/450"
+  to = "/products/450"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/452"
+  to = "/products/452"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/453"
+  to = "/products/453"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/448"
+  to = "/products/448"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/454"
+  to = "/products/454"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/455"
+  to = "/products/455"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/456"
+  to = "/products/456"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/457"
+  to = "/products/457"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/458"
+  to = "/products/458"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/437"
+  to = "/products/437"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/460"
+  to = "/products/460"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/461"
+  to = "/products/461"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/462"
+  to = "/products/462"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/441"
+  to = "/products/441"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/464"
+  to = "/products/464"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/465"
+  to = "/products/465"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/466"
+  to = "/products/466"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/467"
+  to = "/products/467"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/459"
+  to = "/products/459"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/446"
+  to = "/products/446"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/469"
+  to = "/products/469"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/451"
+  to = "/products/451"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/471"
+  to = "/products/471"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/473"
+  to = "/products/473"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/468"
+  to = "/products/468"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/475"
+  to = "/products/475"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/476"
+  to = "/products/476"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/472"
+  to = "/products/472"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/477"
+  to = "/products/477"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/463"
+  to = "/products/463"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/474"
+  to = "/products/474"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/479"
+  to = "/products/479"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/482"
+  to = "/products/482"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/484"
+  to = "/products/484"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/483"
+  to = "/products/483"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/485"
+  to = "/products/485"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/480"
+  to = "/products/480"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/478"
+  to = "/products/478"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/487"
+  to = "/products/487"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/488"
+  to = "/products/488"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/490"
+  to = "/products/490"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/486"
+  to = "/products/486"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/492"
+  to = "/products/492"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/493"
+  to = "/products/493"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/491"
+  to = "/products/491"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/489"
+  to = "/products/489"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/495"
+  to = "/products/495"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/497"
+  to = "/products/497"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/496"
+  to = "/products/496"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/500"
+  to = "/products/500"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/470"
+  to = "/products/470"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/501"
+  to = "/products/501"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/498"
+  to = "/products/498"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/502"
+  to = "/products/502"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/503"
+  to = "/products/503"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/504"
+  to = "/products/504"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/499"
+  to = "/products/499"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/506"
+  to = "/products/506"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/507"
+  to = "/products/507"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/505"
+  to = "/products/505"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/481"
+  to = "/products/481"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/511"
+  to = "/products/511"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/510"
+  to = "/products/510"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/513"
+  to = "/products/513"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/514"
+  to = "/products/514"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/512"
+  to = "/products/512"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/515"
+  to = "/products/515"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/516"
+  to = "/products/516"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/519"
+  to = "/products/519"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/509"
+  to = "/products/509"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/520"
+  to = "/products/520"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/521"
+  to = "/products/521"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/522"
+  to = "/products/522"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/494"
+  to = "/products/494"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/524"
+  to = "/products/524"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/518"
+  to = "/products/518"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/525"
+  to = "/products/525"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/527"
+  to = "/products/527"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/508"
+  to = "/products/508"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/523"
+  to = "/products/523"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/530"
+  to = "/products/530"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/531"
+  to = "/products/531"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/517"
+  to = "/products/517"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/532"
+  to = "/products/532"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/534"
+  to = "/products/534"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/533"
+  to = "/products/533"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/535"
+  to = "/products/535"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/528"
+  to = "/products/528"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/539"
+  to = "/products/539"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/537"
+  to = "/products/537"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/542"
+  to = "/products/542"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/529"
+  to = "/products/529"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/540"
+  to = "/products/540"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/544"
+  to = "/products/544"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/538"
+  to = "/products/538"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/526"
+  to = "/products/526"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/547"
+  to = "/products/547"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/548"
+  to = "/products/548"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/546"
+  to = "/products/546"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/536"
+  to = "/products/536"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/543"
+  to = "/products/543"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/553"
+  to = "/products/553"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/552"
+  to = "/products/552"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/551"
+  to = "/products/551"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/555"
+  to = "/products/555"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/550"
+  to = "/products/550"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/557"
+  to = "/products/557"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/558"
+  to = "/products/558"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/556"
+  to = "/products/556"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/549"
+  to = "/products/549"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/545"
+  to = "/products/545"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/561"
+  to = "/products/561"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/563"
+  to = "/products/563"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/562"
+  to = "/products/562"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/560"
+  to = "/products/560"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/565"
+  to = "/products/565"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/564"
+  to = "/products/564"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/567"
+  to = "/products/567"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/568"
+  to = "/products/568"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/570"
+  to = "/products/570"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/571"
+  to = "/products/571"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/569"
+  to = "/products/569"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/572"
+  to = "/products/572"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/559"
+  to = "/products/559"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/541"
+  to = "/products/541"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/575"
+  to = "/products/575"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/577"
+  to = "/products/577"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/578"
+  to = "/products/578"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/554"
+  to = "/products/554"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/579"
+  to = "/products/579"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/580"
+  to = "/products/580"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/583"
+  to = "/products/583"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/582"
+  to = "/products/582"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/566"
+  to = "/products/566"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/574"
+  to = "/products/574"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/584"
+  to = "/products/584"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/586"
+  to = "/products/586"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/585"
+  to = "/products/585"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/573"
+  to = "/products/573"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/587"
+  to = "/products/587"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/591"
+  to = "/products/591"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/590"
+  to = "/products/590"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/576"
+  to = "/products/576"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/594"
+  to = "/products/594"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/592"
+  to = "/products/592"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/595"
+  to = "/products/595"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/581"
+  to = "/products/581"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/597"
+  to = "/products/597"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/598"
+  to = "/products/598"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/599"
+  to = "/products/599"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/588"
+  to = "/products/588"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/601"
+  to = "/products/601"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/600"
+  to = "/products/600"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/603"
+  to = "/products/603"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/596"
+  to = "/products/596"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/589"
+  to = "/products/589"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/607"
+  to = "/products/607"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/608"
+  to = "/products/608"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/593"
+  to = "/products/593"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/605"
+  to = "/products/605"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/604"
+  to = "/products/604"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/610"
+  to = "/products/610"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/606"
+  to = "/products/606"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/612"
+  to = "/products/612"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/615"
+  to = "/products/615"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/616"
+  to = "/products/616"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/602"
+  to = "/products/602"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/613"
+  to = "/products/613"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/617"
+  to = "/products/617"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/618"
+  to = "/products/618"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/609"
+  to = "/products/609"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/614"
+  to = "/products/614"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/621"
+  to = "/products/621"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/620"
+  to = "/products/620"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/623"
+  to = "/products/623"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/619"
+  to = "/products/619"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/625"
+  to = "/products/625"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/629"
+  to = "/products/629"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/628"
+  to = "/products/628"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/627"
+  to = "/products/627"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/622"
+  to = "/products/622"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/630"
+  to = "/products/630"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/632"
+  to = "/products/632"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/631"
+  to = "/products/631"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/624"
+  to = "/products/624"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/634"
+  to = "/products/634"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/635"
+  to = "/products/635"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/633"
+  to = "/products/633"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/637"
+  to = "/products/637"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/638"
+  to = "/products/638"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/636"
+  to = "/products/636"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/642"
+  to = "/products/642"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/641"
+  to = "/products/641"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/643"
+  to = "/products/643"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/640"
+  to = "/products/640"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/644"
+  to = "/products/644"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/646"
+  to = "/products/646"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/645"
+  to = "/products/645"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/647"
+  to = "/products/647"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/639"
+  to = "/products/639"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/649"
+  to = "/products/649"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/651"
+  to = "/products/651"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/653"
+  to = "/products/653"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/652"
+  to = "/products/652"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/648"
+  to = "/products/648"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/655"
+  to = "/products/655"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/654"
+  to = "/products/654"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/650"
+  to = "/products/650"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/657"
+  to = "/products/657"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/660"
+  to = "/products/660"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/656"
+  to = "/products/656"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/626"
+  to = "/products/626"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/663"
+  to = "/products/663"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/662"
+  to = "/products/662"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/664"
+  to = "/products/664"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/661"
+  to = "/products/661"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/665"
+  to = "/products/665"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/659"
+  to = "/products/659"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/666"
+  to = "/products/666"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/669"
+  to = "/products/669"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/671"
+  to = "/products/671"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/672"
+  to = "/products/672"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/668"
+  to = "/products/668"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/673"
+  to = "/products/673"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/658"
+  to = "/products/658"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/670"
+  to = "/products/670"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/675"
+  to = "/products/675"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/676"
+  to = "/products/676"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/611"
+  to = "/products/611"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/679"
+  to = "/products/679"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/680"
+  to = "/products/680"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/681"
+  to = "/products/681"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/667"
+  to = "/products/667"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/682"
+  to = "/products/682"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/683"
+  to = "/products/683"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/684"
+  to = "/products/684"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/686"
+  to = "/products/686"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/688"
+  to = "/products/688"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/687"
+  to = "/products/687"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/689"
+  to = "/products/689"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/685"
+  to = "/products/685"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/691"
+  to = "/products/691"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/674"
+  to = "/products/674"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/692"
+  to = "/products/692"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/694"
+  to = "/products/694"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/695"
+  to = "/products/695"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/690"
+  to = "/products/690"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/693"
+  to = "/products/693"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/699"
+  to = "/products/699"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/697"
+  to = "/products/697"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/698"
+  to = "/products/698"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/696"
+  to = "/products/696"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/703"
+  to = "/products/703"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/702"
+  to = "/products/702"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/705"
+  to = "/products/705"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/677"
+  to = "/products/677"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/706"
+  to = "/products/706"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/708"
+  to = "/products/708"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/707"
+  to = "/products/707"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/704"
+  to = "/products/704"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/700"
+  to = "/products/700"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/709"
+  to = "/products/709"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/712"
+  to = "/products/712"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/710"
+  to = "/products/710"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/716"
+  to = "/products/716"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/714"
+  to = "/products/714"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/701"
+  to = "/products/701"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/717"
+  to = "/products/717"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/718"
+  to = "/products/718"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/715"
+  to = "/products/715"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/713"
+  to = "/products/713"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/720"
+  to = "/products/720"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/721"
+  to = "/products/721"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/722"
+  to = "/products/722"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/723"
+  to = "/products/723"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/678"
+  to = "/products/678"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/727"
+  to = "/products/727"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/726"
+  to = "/products/726"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/724"
+  to = "/products/724"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/728"
+  to = "/products/728"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/725"
+  to = "/products/725"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/733"
+  to = "/products/733"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/729"
+  to = "/products/729"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/730"
+  to = "/products/730"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/734"
+  to = "/products/734"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/711"
+  to = "/products/711"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/737"
+  to = "/products/737"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/719"
+  to = "/products/719"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/738"
+  to = "/products/738"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/739"
+  to = "/products/739"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/735"
+  to = "/products/735"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/742"
+  to = "/products/742"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/731"
+  to = "/products/731"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/740"
+  to = "/products/740"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/732"
+  to = "/products/732"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/747"
+  to = "/products/747"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/748"
+  to = "/products/748"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/746"
+  to = "/products/746"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/741"
+  to = "/products/741"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/749"
+  to = "/products/749"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/744"
+  to = "/products/744"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/752"
+  to = "/products/752"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/753"
+  to = "/products/753"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/745"
+  to = "/products/745"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/755"
+  to = "/products/755"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/754"
+  to = "/products/754"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/743"
+  to = "/products/743"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/758"
+  to = "/products/758"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/756"
+  to = "/products/756"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/759"
+  to = "/products/759"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/760"
+  to = "/products/760"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/762"
+  to = "/products/762"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/757"
+  to = "/products/757"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/764"
+  to = "/products/764"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/736"
+  to = "/products/736"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/761"
+  to = "/products/761"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/763"
+  to = "/products/763"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/765"
+  to = "/products/765"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/766"
+  to = "/products/766"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/771"
+  to = "/products/771"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/770"
+  to = "/products/770"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/751"
+  to = "/products/751"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/769"
+  to = "/products/769"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/767"
+  to = "/products/767"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/773"
+  to = "/products/773"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/750"
+  to = "/products/750"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/776"
+  to = "/products/776"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/774"
+  to = "/products/774"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/778"
+  to = "/products/778"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/779"
+  to = "/products/779"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/775"
+  to = "/products/775"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/777"
+  to = "/products/777"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/781"
+  to = "/products/781"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/768"
+  to = "/products/768"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/783"
+  to = "/products/783"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/772"
+  to = "/products/772"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/782"
+  to = "/products/782"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/787"
+  to = "/products/787"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/785"
+  to = "/products/785"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/789"
+  to = "/products/789"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/791"
+  to = "/products/791"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/786"
+  to = "/products/786"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/793"
+  to = "/products/793"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/788"
+  to = "/products/788"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/795"
+  to = "/products/795"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/794"
+  to = "/products/794"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/797"
+  to = "/products/797"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/780"
+  to = "/products/780"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/784"
+  to = "/products/784"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/798"
+  to = "/products/798"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/790"
+  to = "/products/790"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/801"
+  to = "/products/801"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/792"
+  to = "/products/792"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/802"
+  to = "/products/802"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/804"
+  to = "/products/804"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/796"
+  to = "/products/796"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/800"
+  to = "/products/800"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/806"
+  to = "/products/806"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/807"
+  to = "/products/807"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/808"
+  to = "/products/808"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/803"
+  to = "/products/803"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/809"
+  to = "/products/809"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/810"
+  to = "/products/810"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/799"
+  to = "/products/799"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/812"
+  to = "/products/812"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/805"
+  to = "/products/805"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/815"
+  to = "/products/815"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/816"
+  to = "/products/816"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/817"
+  to = "/products/817"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/818"
+  to = "/products/818"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/819"
+  to = "/products/819"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/814"
+  to = "/products/814"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/821"
+  to = "/products/821"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/811"
+  to = "/products/811"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/824"
+  to = "/products/824"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/823"
+  to = "/products/823"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/822"
+  to = "/products/822"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/825"
+  to = "/products/825"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/828"
+  to = "/products/828"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/827"
+  to = "/products/827"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/829"
+  to = "/products/829"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/813"
+  to = "/products/813"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/831"
+  to = "/products/831"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/830"
+  to = "/products/830"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/832"
+  to = "/products/832"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/834"
+  to = "/products/834"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/835"
+  to = "/products/835"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/833"
+  to = "/products/833"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/838"
+  to = "/products/838"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/820"
+  to = "/products/820"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/841"
+  to = "/products/841"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/826"
+  to = "/products/826"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/843"
+  to = "/products/843"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/836"
+  to = "/products/836"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/839"
+  to = "/products/839"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/840"
+  to = "/products/840"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/844"
+  to = "/products/844"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/837"
+  to = "/products/837"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/847"
+  to = "/products/847"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/850"
+  to = "/products/850"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/848"
+  to = "/products/848"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/849"
+  to = "/products/849"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/851"
+  to = "/products/851"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/852"
+  to = "/products/852"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/853"
+  to = "/products/853"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/842"
+  to = "/products/842"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/856"
+  to = "/products/856"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/857"
+  to = "/products/857"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/854"
+  to = "/products/854"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/860"
+  to = "/products/860"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/846"
+  to = "/products/846"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/862"
+  to = "/products/862"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/845"
+  to = "/products/845"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/861"
+  to = "/products/861"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/858"
+  to = "/products/858"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/865"
+  to = "/products/865"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/859"
+  to = "/products/859"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/868"
+  to = "/products/868"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/863"
+  to = "/products/863"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/870"
+  to = "/products/870"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/871"
+  to = "/products/871"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/869"
+  to = "/products/869"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/867"
+  to = "/products/867"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/855"
+  to = "/products/855"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/873"
+  to = "/products/873"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/864"
+  to = "/products/864"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/877"
+  to = "/products/877"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/866"
+  to = "/products/866"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/875"
+  to = "/products/875"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/872"
+  to = "/products/872"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/876"
+  to = "/products/876"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/883"
+  to = "/products/883"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/884"
+  to = "/products/884"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/882"
+  to = "/products/882"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/878"
+  to = "/products/878"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/880"
+  to = "/products/880"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/879"
+  to = "/products/879"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/881"
+  to = "/products/881"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/886"
+  to = "/products/886"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/891"
+  to = "/products/891"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/889"
+  to = "/products/889"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/890"
+  to = "/products/890"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/888"
+  to = "/products/888"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/892"
+  to = "/products/892"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/887"
+  to = "/products/887"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/896"
+  to = "/products/896"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/897"
+  to = "/products/897"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/893"
+  to = "/products/893"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/894"
+  to = "/products/894"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/874"
+  to = "/products/874"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/900"
+  to = "/products/900"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/902"
+  to = "/products/902"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/899"
+  to = "/products/899"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/904"
+  to = "/products/904"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/885"
+  to = "/products/885"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/895"
+  to = "/products/895"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/898"
+  to = "/products/898"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/907"
+  to = "/products/907"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/909"
+  to = "/products/909"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/910"
+  to = "/products/910"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/901"
+  to = "/products/901"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/911"
+  to = "/products/911"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/908"
+  to = "/products/908"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/903"
+  to = "/products/903"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/914"
+  to = "/products/914"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/906"
+  to = "/products/906"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/912"
+  to = "/products/912"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/913"
+  to = "/products/913"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/918"
+  to = "/products/918"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/916"
+  to = "/products/916"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/917"
+  to = "/products/917"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/923"
+  to = "/products/923"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/905"
+  to = "/products/905"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/919"
+  to = "/products/919"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/922"
+  to = "/products/922"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/925"
+  to = "/products/925"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/926"
+  to = "/products/926"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/928"
+  to = "/products/928"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/924"
+  to = "/products/924"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/930"
+  to = "/products/930"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/927"
+  to = "/products/927"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/931"
+  to = "/products/931"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/921"
+  to = "/products/921"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/915"
+  to = "/products/915"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/934"
+  to = "/products/934"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/920"
+  to = "/products/920"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/937"
+  to = "/products/937"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/935"
+  to = "/products/935"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/938"
+  to = "/products/938"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/936"
+  to = "/products/936"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/932"
+  to = "/products/932"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/939"
+  to = "/products/939"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/942"
+  to = "/products/942"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/943"
+  to = "/products/943"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/941"
+  to = "/products/941"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/945"
+  to = "/products/945"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/929"
+  to = "/products/929"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/944"
+  to = "/products/944"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/948"
+  to = "/products/948"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/949"
+  to = "/products/949"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/947"
+  to = "/products/947"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/952"
+  to = "/products/952"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/946"
+  to = "/products/946"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/954"
+  to = "/products/954"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/940"
+  to = "/products/940"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/956"
+  to = "/products/956"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/953"
+  to = "/products/953"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/951"
+  to = "/products/951"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/958"
+  to = "/products/958"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/957"
+  to = "/products/957"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/955"
+  to = "/products/955"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/962"
+  to = "/products/962"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/963"
+  to = "/products/963"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/959"
+  to = "/products/959"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/964"
+  to = "/products/964"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/933"
+  to = "/products/933"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/968"
+  to = "/products/968"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/950"
+  to = "/products/950"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/961"
+  to = "/products/961"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/969"
+  to = "/products/969"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/970"
+  to = "/products/970"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/972"
+  to = "/products/972"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/973"
+  to = "/products/973"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/960"
+  to = "/products/960"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/974"
+  to = "/products/974"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/975"
+  to = "/products/975"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/966"
+  to = "/products/966"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/967"
+  to = "/products/967"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/978"
+  to = "/products/978"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/976"
+  to = "/products/976"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/977"
+  to = "/products/977"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/981"
+  to = "/products/981"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/983"
+  to = "/products/983"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/982"
+  to = "/products/982"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/971"
+  to = "/products/971"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/984"
+  to = "/products/984"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/985"
+  to = "/products/985"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/965"
+  to = "/products/965"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/979"
+  to = "/products/979"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/986"
+  to = "/products/986"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/988"
+  to = "/products/988"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/992"
+  to = "/products/992"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/993"
+  to = "/products/993"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/991"
+  to = "/products/991"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/990"
+  to = "/products/990"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/995"
+  to = "/products/995"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/994"
+  to = "/products/994"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/987"
+  to = "/products/987"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/998"
+  to = "/products/998"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/1000"
+  to = "/products/1000"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/997"
+  to = "/products/997"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/980"
+  to = "/products/980"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/999"
+  to = "/products/999"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/996"
+  to = "/products/996"
+  status = 307
+  force = false
+
+[[redirects]]
+  from = "/my-products/989"
+  to = "/products/989"
   status = 307
   force = false
